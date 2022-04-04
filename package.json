@@ -1,0 +1,26 @@
+{
+    "name": "karma-clear",
+    "displayName": "Karma Clear",
+    "description": "A variant of the Karma colour theme with clear borders and other small changes",
+    "version": "0.0.1",
+    "author": "Jaci Brunning",
+    "engines": {
+        "vscode": "^1.66.0"
+    },
+    "repository": {
+        "url": "git+https://github.com/JaciBrunning/karma-clear.git"
+    },
+    "homepage": "https://github.com/JaciBrunning/karma-clear#readme",
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Karma Clear",
+                "uiTheme": "vs-dark",
+                "path": "./themes/Karma Clear-color-theme.json"
+            }
+        ]
+    }
+}
