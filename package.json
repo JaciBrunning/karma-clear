@@ -6,7 +6,7 @@
     "author": "Jaci Brunning",
     "publisher": "jaci",
     "engines": {
-        "vscode": "^1.66.0"
+        "vscode": "^1.57.0"
     },
     "repository": {
         "url": "git+https://github.com/JaciBrunning/karma-clear.git"
