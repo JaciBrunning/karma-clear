@@ -4,6 +4,7 @@
     "description": "A variant of the Karma colour theme with clear borders and other small changes",
     "version": "0.0.1",
     "author": "Jaci Brunning",
+    "publisher": "jaci",
     "engines": {
         "vscode": "^1.66.0"
     },
